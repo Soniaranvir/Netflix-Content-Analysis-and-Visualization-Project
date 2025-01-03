@@ -4,6 +4,9 @@
 
 I embarked on this project to uncover the storytelling magic hidden within Netflix's vast library. My goal was to create an insightful and interactive dashboard that not only visualizes data but also narrates the evolution and diversity of Netflix's offerings over the years. This initiative combines data analysis with compelling visual design to aid content strategists, data enthusiasts, and streaming fans in understanding trends across Netflix’s catalog.
 
+## Dataset 
+<a href = "https://github.com/Soniaranvir/netflix_tableau_dashboard/blob/main/netflix_titles.csv"> Netflix_titles </a>
+
 ## 🎯 Objectives
 
 Content Trends: Analyze the growth of movies and TV shows over time.
