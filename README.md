@@ -23,13 +23,13 @@ Insights into Audience Preferences: Identify audience preferences based on ratin
 
 The dataset includes detailed information about Netflix’s titles, such as:
 
-Title Information: Name, type (Movie/TV Show), release year, and description.
+- Title Information: Name, type (Movie/TV Show), release year, and description.
 
-Metadata: Country of origin, directors, cast, and date added to Netflix.
+- Metadata: Country of origin, directors, cast, and date added to Netflix.
 
-Ratings and Genres: Audience ratings (e.g., TV-MA, PG) and genres listed.
+- Ratings and Genres: Audience ratings (e.g., TV-MA, PG) and genres listed.
 
-Duration: Duration for movies or number of seasons for TV shows.
+- Duration: Duration for movies or number of seasons for TV shows.
 
 ## 🛠️ Methodology
 
@@ -51,15 +51,15 @@ Plotted content trends over time using area charts.
 
 ## 🔍 Key Insights
 
-Global Content Production: The United States leads in Netflix’s content production, with significant contributions from countries like India, the UK, and South Korea.
+- Global Content Production: The United States leads in Netflix’s content production, with significant contributions from countries like India, the UK, and South Korea.
 
-Movies Dominate: Around 68% of the catalog comprises movies, with the remaining 32% being TV shows.
+- Movies Dominate: Around 68% of the catalog comprises movies, with the remaining 32% being TV shows.
 
-Popular Genres: Documentaries and Stand-Up Comedy emerge as top genres, reflecting audience interest in diverse formats.
+- Popular Genres: Documentaries and Stand-Up Comedy emerge as top genres, reflecting audience interest in diverse formats.
 
-Ratings Distribution: TV-MA and TV-14 dominate, indicating a significant focus on mature and young adult audiences.
+- Ratings Distribution: TV-MA and TV-14 dominate, indicating a significant focus on mature and young adult audiences.
 
-Content Growth: A steep rise in new content additions from 2015 onwards, coinciding with Netflix’s global expansion.
+- Content Growth: A steep rise in new content additions from 2015 onwards, coinciding with Netflix’s global expansion.
 
 ## 🧰 Tools and Technologies
 
@@ -69,23 +69,23 @@ Tableau: For creating the interactive and visually appealing dashboard.
 
 The dashboard offers:
 
-A dynamic map visualizing the global reach of Netflix’s content.
+- A dynamic map visualizing the global reach of Netflix’s content.
 
-Bar charts displaying top genres and ratings.
+- Bar charts displaying top genres and ratings.
 
-Bubble charts showcasing the distribution of movies vs. TV shows.
+- Bubble charts showcasing the distribution of movies vs. TV shows.
 
-Trends over time to understand Netflix’s growth trajectory.
+- Trends over time to understand Netflix’s growth trajectory.
 
 ## 🔮 Future Scope
 
 This project serves as a foundation for exploring deeper insights, such as:
 
-Predictive analysis on trending genres or audience preferences.
+- Predictive analysis on trending genres or audience preferences.
 
-Sentiment analysis of descriptions to categorize content mood.
+- Sentiment analysis of descriptions to categorize content mood.
 
-Comparing Netflix’s catalog with other streaming platforms.
+- Comparing Netflix’s catalog with other streaming platforms.
 
 ## 🏁 Conclusion
 
