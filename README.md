@@ -30,12 +30,6 @@ Duration: Duration for movies or number of seasons for TV shows.
 
 ## 🛠️ Methodology
 
-### 🔧 Data Cleaning:
-
-I processed missing values in fields such as director, cast, and country.
-
-Standardized date formats for consistency.
-
 ### 📊 Exploratory Data Analysis (EDA):
 
 Analyzed the distribution of content types, ratings, and release years.
@@ -65,8 +59,6 @@ Ratings Distribution: TV-MA and TV-14 dominate, indicating a significant focus o
 Content Growth: A steep rise in new content additions from 2015 onwards, coinciding with Netflix’s global expansion.
 
 ## 🧰 Tools and Technologies
-
-Python: For data cleaning and analysis.
 
 Tableau: For creating the interactive and visually appealing dashboard.
 
@@ -100,10 +92,7 @@ Through this project, I aimed to bridge data with storytelling, offering an enga
 
 Data: Includes the cleaned dataset.
 
-Code: Python scripts for data cleaning and analysis.
-
 Visualizations: Tableau workbook and screenshots of the dashboard.
 
 Insights: Summarized findings from the analysis.
 
-Feel free to explore the repository and share your feedback!
